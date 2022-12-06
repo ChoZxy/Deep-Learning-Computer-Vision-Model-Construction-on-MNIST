@@ -15,8 +15,10 @@ Implemented deep networks including fully-connected neural networks, convolution
 Project is created with:
 * Numpy
 * Pytorch
-* 
 	
 ## Setup
 To run this project, download it and install in your web notebook service, Jupyter Notebook or Google Colab. To train CNN and Transformer, turn on GPU in Google Colab. 
-
+To run the feedfoward neural network notebook, install hw2.py
+```
+$ cd ../neuralnet
+```
